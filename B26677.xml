@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd to the societies for reformation of manners in the cities of London and Westminster, May 13th, 1700. Published at their request. By Isaac Mauduit, minister of the gospel of Jesus Christ.</title>
+            <author>Mauduit, Isaac, 1662 or 3-1718.</author>
+         </titleStmt>
+         <extent>Approx. 56KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26677</idno><idno type="EEBO-CITATION">99830384</idno>
+  <idno type="VID">207357</idno>
+  <idno type="EEBO-PROQUEST">2240878905</idno>
+  
+            <idno type="STC">Wing M1333A</idno>
+            <idno type="PROQUEST">99830384</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830384e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207357)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2073:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd to the societies for reformation of manners in the cities of London and Westminster, May 13th, 1700. Published at their request. By Isaac Mauduit, minister of the gospel of Jesus Christ.</title>
+                  <author>Mauduit, Isaac, 1662 or 3-1718.</author>
+               </titleStmt>
+               <extent>[10], 51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Eben. Tracy, at the Three Bibles on London-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a final advertisement leaf.</note>
+                  <note>Reproduction of the original in the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207357:1"/>
+            <pb facs="tcp:207357:1"/>
+            <p>A SERMON Preach'd to the <hi>SOCIETIES</hi> FOR Reformation of Manners, In the CITIES of <hi>London</hi> and <hi>Westminster,</hi> May 13th, 1700.</p>
+            <p>
+               <hi>Published at their Request.</hi>
+            </p>
+            <p>By <hi>ISAAC MAƲDƲIT,</hi> Minister of the Gospel of Jesus Christ.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Eben. Tracy,</hi> at the <hi>Three Bibles</hi> on <hi>London-Bridge,</hi> 1700.</p>
+         </div>
+         <div type="dedications">
+            <pb facs="tcp:207357:2"/>
+            <pb facs="tcp:207357:2"/>
+            <head>TO The Right Honourable Sir <hi>George Treby,</hi> Knight, Lord Chief Justice of the <hi>COMMON-PLEAS:</hi> AND To His Religious Consort, The Lady <hi>TREBY.</hi>
+            </head>
+            <div type="dedication">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>
+                  <hi>THat Great, Religious and Learned Prelate, the Glory of the</hi> West, <hi>Dr.</hi> Joseph Hall, <hi>then Bishop of</hi> Exeter, <hi>thus Remarks on the Man men<g ref="char:EOLhyphen"/>tioned
+<pb facs="tcp:207357:3"/> in the Gospel, called</hi> Le<g ref="char:EOLhyphen"/>gion, <q rend="margQuotes">The Possessed is bound with the invisible Fetters of Satan, and with the mate<g ref="char:EOLhyphen"/>rial Chains of the Inhabi<g ref="char:EOLhyphen"/>tants; what can bodily force prevail against a Spirit? yet they endeavoured this re<g ref="char:EOLhyphen"/>straint in Charity, that he might not hurt himself; and in Justice, that he might not mischief others. <hi>Neither may the</hi> Spiritually Possessed <hi>be otherwise handled, two sorts of Chains are fit for outragious Sin<g ref="char:EOLhyphen"/>ners,</hi> Good Laws, and Impar<g ref="char:EOLhyphen"/>tial Executions; <hi>that they may not harm, nor be hurt to Eternal Death. Those Iron Chains were no sooner fastned on the Demo<g ref="char:EOLhyphen"/>niac,
+<pb facs="tcp:207357:3"/> then broken; but the</hi> Eter<g ref="char:EOLhyphen"/>nal Decree <hi>Satan can never break; the Almighty Ruler of Heaven, Earth and Hell, has chained him up in the bottomless Pit. Thus it is with the</hi> Spi<g ref="char:EOLhyphen"/>ritually Possessed, <hi>all Bonds of Restraint are commonly burst by the fury of Wickedness; Any regard to the Fear of God, to Civility, to a Dread of Men, to wholsome Laws, and careful Executions, are no more to the desperately Licentious, than Cob<g ref="char:EOLhyphen"/>webs to an Hornet: Yet let these wildest Wretches know, God has provided Bonds for them, even</hi> Everlasting Chains of Dark<g ref="char:EOLhyphen"/>ness: <hi>These will hold the De<g ref="char:EOLhyphen"/>vils themselves (their Masters</hi>)
+<pb facs="tcp:207357:4"/>
+                     <hi>unto the Judgment of the Great Day, how much more those im<g ref="char:EOLhyphen"/>potent Vassals. Oh that Men would suffer themselves to be bound to their Behaviour, by the sweet and easie Recognizance of their Duty to God, and the Care of their own Souls; so that they might rather be bound up in the Bundle of Life</hi>
+                  </q>
+                  <note n="†" place="bottom">Bishop <hi>Hall</hi>'s Contempl. Tom. 2. l. 3. c. 5. p. 76.</note>
+               </p>
+            </div>
+            <div type="dedication">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>
+                  <hi>The Religious Proclamations of our</hi> Gracious Sovereign, <hi>the publick Countenance of a National Reformation given by many of the Spiritual and Temporal Lords; the particular Encouragement hereof
+<pb facs="tcp:207357:4"/> by your Lordship, and most of the Judges; with the warm Zeal of many Justices of the Peace, for the checking the Immoralities of Profligate Sinners, seem to be an happy Token of the length<g ref="char:EOLhyphen"/>ning out of the Nation's Tran<g ref="char:EOLhyphen"/>quillity; and is a plain Demon<g ref="char:EOLhyphen"/>stration, that (notwithstanding our</hi> Daring Provocations) <hi>the Great God has not yet judici<g ref="char:EOLhyphen"/>ally hidden from our Eyes, the Things of our Peace.</hi>
+               </p>
+            </div>
+            <div type="dedication">
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>
+                  <hi>Your Lordship's unstained Con<g ref="char:EOLhyphen"/>versation, and your universally most justly applauded Equity in your Sentences in that Great Court of Judicature, where you
+<pb facs="tcp:207357:5"/> have the Deserved Honour to preside; doth enliven many with delightful hopes that Righteous<g ref="char:EOLhyphen"/>ness shall in these Days be the Establishment of the Royal Throne, and of the whole King<g ref="char:EOLhyphen"/>dom.</hi>
+               </p>
+            </div>
+            <div type="dedication">
+               <opener>
+                  <salute>My Lady,</salute>
+               </opener>
+               <p>
+                  <hi>I hope (without so much as the suspicion of Flattery) I may rec<g ref="char:EOLhyphen"/>kon it as your Priviledge, of which you have enjoy'd the sweet<g ref="char:EOLhyphen"/>est Experience, not only to</hi> know God, but rather to be known of him: <hi>The discovery of Grace shines illustriously on many in the Declarations of the Gospel, but few are begotten of an incorrup<g ref="char:EOLhyphen"/>tible Seed: I rejoice in the Evi<g ref="char:EOLhyphen"/>dences
+<pb facs="tcp:207357:5"/> of that</hi> distinguishing Grace, <hi>which has visited your Soul. Your Presence in Religi<g ref="char:EOLhyphen"/>ous Assemblies, as it is necessary to build you up in your most holy Faith; so your Countenancing of Religion</hi> by so constant an At<g ref="char:EOLhyphen"/>tendance, <hi>is an Encouragement to others to look Heaven-ward: May the Knowledge of the Bles<g ref="char:EOLhyphen"/>sed Jesus increase in your Mind, by the Holy Spirits</hi> taking of the things of Christ, and shew<g ref="char:EOLhyphen"/>ing them to you. <hi>May your Graces be as Resplendent as your Honour, your Relish of Heaven<g ref="char:EOLhyphen"/>ly Things be daily sweeter, and your believing estimate of Di<g ref="char:EOLhyphen"/>vine Objects be much higher than any peculiar value which your
+<pb facs="tcp:207357:6"/> greatest Admirers can express towards you on Earth. There's no Condition but is attended with Snares, Grandeur is not less dangerous than meaner Circum<g ref="char:EOLhyphen"/>stances: May the Lord himself therefore preserve both your Ho<g ref="char:EOLhyphen"/>nours by his Mighty Power, through Faith unto Salvation. I am, my Lord and Lady,</hi>
+               </p>
+               <closer>
+                  <dateline>Mary Magd. Bermondsey, <date>May 20. 1700.</date>
+                  </dateline>
+                  <signed>Yours to serve you in the Gospel of Jesus Christ, Isaac Mauduit.</signed>
+               </closer>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:207357:6"/>
+            <epigraph>
+               <bibl>MARK X. 21.</bibl>
+               <q>Then Jesus beholding him, loved him.</q>
+            </epigraph>
+            <p>IT has imployed the Minds of some, to determine how our Redeemer could love this young Man, to whom the Text refers: He was Proud, insisting on his own Righteousness; through his Cove<g ref="char:EOLhyphen"/>tousness he parted with a Saviour to retain his Estate: After he knew the Will of God, he was offended at Christ's Doctrine, quitted his Company, and never return'd to him again; <hi>v. 20, 21, 22. Master, all these have I observed from my youth. Jesus said unto him, One thing thou lackest; go thy way, sell whatsoever thou hast, and give to the
+<pb n="2" facs="tcp:207357:7"/> poor, and thou shalt have treasure in heaven; and come and take up the cross, and follow me. And he was sad at that saying, and went away grieved; for he had great possessions.</hi> Yet the Text acquaints us, <hi>Jesus beholding him, loved him.</hi> To solve this Difficulty, we may distinguish the Object and the Act.</p>
+            <p n="1">1. The Object. There was some Goodness or Ingenuity in the Dis<g ref="char:EOLhyphen"/>position, or Morality in the Con<g ref="char:EOLhyphen"/>versation of this Person. Our Re<g ref="char:EOLhyphen"/>deemer loved the little remainder of the Divine Image, as yet preserved in his Heart and Life; <hi>Tenues &amp; paulatim Evanescentes Imaginis suae reliquias.</hi> Our Lord liked well that this young Man was not tainted with the common Corrup<g ref="char:EOLhyphen"/>tion of that Age; did not wallow in the general Pollution of those times; was not carried away with the overspreading deluge of Wick<g ref="char:EOLhyphen"/>edness in those days. Though his Sobriety was grounded only on <hi>Re<g ref="char:EOLhyphen"/>straining
+<pb n="3" facs="tcp:207357:7"/> Grace,</hi> vouchsafed by God to him in his greener years; his degenerate Nature was not chang'd by <hi>Renewing Grace;</hi> his Lusts were not mortified, only curbed in, by the common Influences of the Spirit of God upon him: <hi>This was the free Gift of God, not subduing Sin with<g ref="char:EOLhyphen"/>in; sed in quibus illi placet paulatim reprimentis; controuling and check<g ref="char:EOLhyphen"/>ing impetuous and vile Affections in whom he pleases</hi>
+               <note n="*" place="bottom">Will. Strong <hi>of the Covenant,</hi> p. 101.</note>.</p>
+            <p n="2">2. The Act here mentioned, <hi>Loved,</hi> may be considered two ways; there is a Divine and Humane Love.</p>
+            <p n="1">1. A Divine Affection. This also is either special or general.</p>
+            <p n="1">(1.) Distinguishing special, or pe<g ref="char:EOLhyphen"/>culiar, attended with Grace and Sal<g ref="char:EOLhyphen"/>vation; a Love belonging to none but Saints, whom <hi>God loved from everlasting, Jer.</hi> 31. 3. Towards these he had a <hi>Love of Good-will,</hi> before they were eff<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctually call'd;
+<pb n="4" facs="tcp:207357:8"/>
+               <hi>Yea, I have loved thee with an ever<g ref="char:EOLhyphen"/>lasting Love, therefore with loving-kindness have I drawn thee:</hi> And these he imbraces with a <hi>Love of Delight,</hi> after their sincere Conver<g ref="char:EOLhyphen"/>sion; <hi>Then the Lord rejoices over them with singing, and rests in his love. Zeph.</hi> 3. 17. The Love of God shines forth in the brightest manner to the Elect, These he sets a<g ref="char:EOLhyphen"/>part for himself out of the degenerate mass of Mankind, compared with whom he hates the rest: <hi>Rom.</hi> 9. 14. These he effectually calls by the Power of the Holy Spirit in their Hearts, others he only invites by the outward Preaching of the Gospel: On these he bestows Faith and Re<g ref="char:EOLhyphen"/>pentance, others he only commands to believe and repent: These he free<g ref="char:EOLhyphen"/>ly justifies, regenerates and sancti<g ref="char:EOLhyphen"/>fies; to others he only offers these Priviledges: Also amongst the E<g ref="char:EOLhyphen"/>lect, some are not yet reconcil'd, not pardon'd, nor purg'd; these God intends to do good unto; but
+<pb n="5" facs="tcp:207357:8"/> he is actually gracious to, and sin<g ref="char:EOLhyphen"/>gularly loves them whom he trans<g ref="char:EOLhyphen"/>forms into his own likeness: These come nearest to his Image, and have a more eminent Interest in his Af<g ref="char:EOLhyphen"/>fection: Yea in Heaven above, God loves them best who do most re<g ref="char:EOLhyphen"/>semble him <note n="*" place="bottom">Zanch. <hi>op. Theol. Tom. 2. p 364, 365.</hi>
+               </note>. Such a Love as this, Jesus Christ had not for the young Man.</p>
+            <p n="2">(2.) General. The great God loves all his Creatures, more emi<g ref="char:EOLhyphen"/>nently Mankind, peculiarly them who have any Features of his Image appearing in them. The Redeemer approved the good Qualities or Ver<g ref="char:EOLhyphen"/>tues discernable in this young Per<g ref="char:EOLhyphen"/>son. All are not equally lov'd by the great God: Thus St. <hi>Augustine</hi> expresses it; <hi>God it's true loves what he has made, though more the ratio<g ref="char:EOLhyphen"/>nal Creatures; yet more the Mem<g ref="char:EOLhyphen"/>bers of his only begotten Son; but
+<pb n="6" facs="tcp:207357:9"/> most of all Jesus Christ</hi>
+               <note n="*" place="bottom">Aug. <hi>Tom 9. in Joh.</hi>
+               </note>: With him he is infinitely and eternally well pleased.</p>
+            <p n="2">2. There is a Humane Love; and of this the Text is to be under<g ref="char:EOLhyphen"/>stood: For as our Saviour took our Nature, he was also cloathed with our Affections: Jesus beholding this young Man, loved him; for his good Nature, and externally blame<g ref="char:EOLhyphen"/>less Life. To be just in thy Deal<g ref="char:EOLhyphen"/>ings, to walk righteously and so<g ref="char:EOLhyphen"/>berly, is agreeable to Reason; and is an ennobling of thy Nature. <hi>Mic. 6. 8. He has shewed thee, O Man, what is good, and what the Lord re<g ref="char:EOLhyphen"/>quires of thee; to do justly</hi>
+               <note n="†" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Arist. <hi>Eth. l. 5. c. 3.</hi>
+               </note>.</p>
+            <p>Righteousness or Justice com<g ref="char:EOLhyphen"/>prises a knot or chain of Vertues in it. Christ Jesus now expressed an Humane Affection, perhaps in a way of Courtesie and Pity.</p>
+            <p n="1">
+               <pb n="7" facs="tcp:207357:9"/>(1.) In a way of Courtesie. Christ received him very graciously, and kissed him; as <hi>Origen</hi> notes. When any disputed learnedly, and answered well before the Rabbies, they kissed the Heads of such; as <hi>Lightfoot</hi> observes: It may be Christ did the like, when this young Per<g ref="char:EOLhyphen"/>son came and kneeled before him; though in the Text, the word is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not he kissed him, but he loved him: Doubtless our Lord treated him kindly in his Speeches, or in a friendly Carriage towards him; as a welcome guest is entertained by us <note n="*" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hom.</note>. Our blessed Saviour readily owns the least Good in Men: This Person was not gra<g ref="char:EOLhyphen"/>cious, yet Christ did not discourage him. If a Reed be broken we fling it away, or trample it under feet; but the Lord Jesus is of another dis<g ref="char:EOLhyphen"/>position; <hi>Matt. 12. 20. He will not break the bruised reed, nor quench the
+<pb n="8" facs="tcp:207357:10"/> smoaking flax.</hi> Tho' a bright flame of Holiness doth not yet shine forth in thy Conversation, some smoak<g ref="char:EOLhyphen"/>ing Goodness is not discountenanc'd by Heaven.</p>
+            <p n="2">(2.) With Pity and Compassion. This young Man pretended to have observed the Commands of God; but he had done much to no Saving purpose; <hi>He lost all the benefit of his Obedience, by setting it up as his Righ<g ref="char:EOLhyphen"/>teousness.</hi> Christ therefore might condole that he went no farther in Religion, seeing he was not openly vicious; but free from those Ex<g ref="char:EOLhyphen"/>cesses which many then sunk into.</p>
+            <p>Moreover▪ the Lord Jesus is a singular Friend of <hi>Humane Society;</hi> the Preservation of Mankind is ve<g ref="char:EOLhyphen"/>ry grateful to him; he therefore likes <hi>Political Vertues, e. g.</hi> Justice, Temperance, Moderation, Fidelity, Prudence, which Excellencies tend to maintain the Publick: Though such Societies shall receive the pe<g ref="char:EOLhyphen"/>culiar Marks of his Favour, <hi>who
+<pb n="9" facs="tcp:207357:10"/> unite their Endeavours for a National Reformation; who are truly the Pil<g ref="char:EOLhyphen"/>lars of the Land, and the Comptrol<g ref="char:EOLhyphen"/>lers of the Vices of a dissolute Age.</hi> From the whole we may remark;</p>
+            <div type="doctrine">
+               <head>Doct. <hi>The Lord Jesus loves, takes pleasure in, and countenances all that lead a Vertuous, Regular, Moral Conversation.</hi>
+               </head>
+               <p>In the Doctrinal part we may in<g ref="char:EOLhyphen"/>sist on these Heads.</p>
+               <p>
+                  <hi>First,</hi> The Fall of <hi>Adam</hi> has mi<g ref="char:EOLhyphen"/>serably weaken'd the Children of Men, as to their Morals.</p>
+               <p>
+                  <hi>Secondly,</hi> The grave, the best, the most admired Pagan Masters for Morality, are defective guides; as to the ordering of our Conver<g ref="char:EOLhyphen"/>sation.</p>
+               <p>
+                  <hi>Thirdly,</hi> Morality is good, and very beneficial.</p>
+               <p>
+                  <hi>Fourthly,</hi> Yet it doth not merit Grace, is not equal to it, nor secures the Soul.</p>
+               <pb n="10" facs="tcp:207357:11"/>
+               <p>
+                  <hi>First,</hi> The Fall of <hi>Adam</hi> has mi<g ref="char:EOLhyphen"/>serably weaken'd the Children of Men, as to their Morals. What Intemperance and Luxury do over<g ref="char:EOLhyphen"/>flow the greater part of Mankind? How many do impair their Health, and shorten their days, digging their own graves by Surfeits and Drunkenness? Sensuality pollutes both Soul and Body, and manifest<g ref="char:EOLhyphen"/>ly impairs the Natural Strength;</p>
+               <q>Balnea, vina, Venus corrumpunt cor<g ref="char:EOLhyphen"/>pora nostra.</q>
+               <p>Therefore the Roman Funerals were wont to be at the gates of the Tem<g ref="char:EOLhyphen"/>ple of <hi>Venus;</hi> plainly intimating, that the Lusts of many do destroy their Lives <note n="*" place="bottom">Mant. <hi>4th Vol. p. 57.</hi>
+                  </note>. Such are not govern'd by Reason, but by a worse than brutish Appetite: Yet even Sobrie<g ref="char:EOLhyphen"/>ty is not Natures Fruit, but a gift of God; not only Justifying Faith,
+<pb n="11" facs="tcp:207357:11"/> but Continency is not from our selves, but from God, 1 <hi>Cor.</hi> 7. 7. Without a Divine Influence we are no more for vertuous Actions, then a Beam is powerful when the Sun is clouded. VVe are such Clay as can<g ref="char:EOLhyphen"/>not form it self into a Vessel of Moral Honour, far less into a Ves<g ref="char:EOLhyphen"/>sel of Grace. Nature is overgrown with Corruption, it is not intrinse<g ref="char:EOLhyphen"/>cally sufficient for Justice or Tem<g ref="char:EOLhyphen"/>perance; <hi>We have brutify'd our Tem<g ref="char:EOLhyphen"/>pers, and cannot Moralize our Souls without common Grace; neither shall ever be partakers of a Divine Nature, without distinguishing special Grace</hi>
+                  <note n="*" place="bottom">Charn. 2. <hi>Vol. p. 104.</hi>
+                  </note>.</p>
+               <p>
+                  <hi>Secondly,</hi> The gravest or most ad<g ref="char:EOLhyphen"/>mired Pagan Masters are defective guides, as to the ordering of the Conversation. The Heathen Phi<g ref="char:EOLhyphen"/>losophers indeed endeavour'd to che<g ref="char:EOLhyphen"/>rish or enliven some faint Principles, or warm Sparks of the Law of God, yet remaining on the Hearts of Men; labouring to calm the Affe<g ref="char:EOLhyphen"/>ctions,
+<pb n="12" facs="tcp:207357:12"/> to hush the storm of raging Passions, and to civilize the deport<g ref="char:EOLhyphen"/>ment of the Children of Men: In order to which they stole some light from the Holy Scriptures, bringing their Torches to the Sun. The Ver<g ref="char:EOLhyphen"/>tues which some of the <hi>Platonists</hi> advised to, for purging away the defilements of the Soul, <hi>they bor<g ref="char:EOLhyphen"/>rowed from Christian Writers; since none of the Philosophers ever made mention of those Vertues, till Christ's manifestation in the Flesh</hi>
+                  <note n="*" place="bottom">
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ud. <hi>Vives de Ver. Rel. Christ.</hi>
+                  </note>. Alas, how weak was that grand directi<g ref="char:EOLhyphen"/>on of old, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>to live according to Nature?</hi> It's true, in the state of Innocency the Mind was furnish'd with perfect Instru<g ref="char:EOLhyphen"/>ctions; but since <hi>Adam</hi>'s Apostacy, we might as well expect to meet with all the Maxims of Archite<g ref="char:EOLhyphen"/>cture in the Ruins of a stately Building, as to find within our selves exact Counsels of what we
+<pb n="13" facs="tcp:207357:12"/> should perform or avoid, <hi>without being taught of God.</hi> None of the celebrated Heathen Authors ever <hi>enjoin'd the Love of God,</hi> tho' it is most reasonable that our Affections should first ascend to him in their fullest vigour, to whom our Obli<g ref="char:EOLhyphen"/>gations are so vast, and whom all other Objects are infinitely beneath. VVhat Directions can we receive from <hi>Aristotle</hi> or <hi>Plato,</hi> to prepare us for intimate <hi>delightful Communion with God;</hi> though this is the su<g ref="char:EOLhyphen"/>pream happiness of our Souls? The Heathen Sages <hi>never proposed divine Glory</hi> as the end of Mens Actions, but perswaded to Vertue to gain Reputation in the world; to pre<g ref="char:EOLhyphen"/>vent the mischiefs of Licentious<g ref="char:EOLhyphen"/>ness; or to draw the Affections by the charming Aspect of a commen<g ref="char:EOLhyphen"/>dable Deportment: Yea they ascri<g ref="char:EOLhyphen"/>bed the praise of all their best Acti<g ref="char:EOLhyphen"/>ons to themselves. Riches, Ho<g ref="char:EOLhyphen"/>nour and Safety, they confessed to be the gift of God; but imagin'd
+<pb n="14" facs="tcp:207357:13"/> that Goodness lost its lustre if it came from above; or depended on the Grace of another. <hi>Cicero</hi> thus speaks, <q rend="margQuotes">VVho ever gave Thanks to the Gods that he was vertuous, tho' he acknowledges it an Hea<g ref="char:EOLhyphen"/>venly Favour to be rich, honou<g ref="char:EOLhyphen"/>rable and secure from danger <note n="*" place="bottom">Cic. <hi>lib. 3. de Naturâ Deorum.</hi>
+                     </note>
+                  </q> The lameness of Philosophi<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l Coun<g ref="char:EOLhyphen"/>sels is demonstrated at large by a late and great Divine of o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r own Country <note n="†" place="bottom">Dr. <hi>Bates</hi>'s Harm. Div. Attr. p. 339 ad 348.</note>. That justly admired Light <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Eastern Church, long since display'd the imperfect dire<g ref="char:EOLhyphen"/>ctions of the Pagan Morals; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; <q rend="margQuotes">What can we think or say of their best Rules of Discipline? All admire Peace, or an happy Union in the Minds of Citizens, a blessed accord in Fa<g ref="char:EOLhyphen"/>milies, and an amicable converse with particular persons; but who will be influenced to such a frame,
+<pb n="15" facs="tcp:207357:13"/> by reading the accounts of the VVars, Discords, Rebellions of their very Gods; or the innumera<g ref="char:EOLhyphen"/>ble private and publick Calam<gap reason="illegible" resp="#murp" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>, which they brought upon the world; with the Narratives where<g ref="char:EOLhyphen"/>of, the Histories and Poems of the Heathen, do so much abound? Sooner would Mankind, yea the most peaceable and prudent Per<g ref="char:EOLhyphen"/>sons, become mad, surious, and per<g ref="char:EOLhyphen"/>petual disturbers of their Neigh<g ref="char:EOLhyphen"/>bours Peace; then they are like to be moderate or prudent by such Examples. frow can we expect that the Temptations of Lust should be avoided <note n="*" place="bottom">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>, or hope to reform the vi<g ref="char:EOLhyphen"/>cious; when their very Gods are represented as Leaders to, and Pa<g ref="char:EOLhyphen"/>trons of the most vile Affections, and the most debauch'd Practices <note n="†" place="bottom">
+                        <hi>Hoc enim omnium indigniss<gap reason="illegible" resp="#murp" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>
+                        </hi>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note>? This were enough indeed to turn our stomachs against the Heathen
+<pb n="16" facs="tcp:207357:14"/> Poets, that they should mention those Persons as ador'd for Gods, who were guilty of the Crimes avenged on Mortals with the seve<g ref="char:EOLhyphen"/>rest Laws, and most dismal Execu<g ref="char:EOLhyphen"/>tion <note n="*" place="bottom">Greg. Naz. <hi>Orat. 3. p. 107. Art. 114, 115.</hi>
+                     </note>.</q> Those Authors that were in greatest Reputation, yet deliver<g ref="char:EOLhyphen"/>ed many Immoral Maxims in their VVritings: <hi>e. g.</hi> The <hi>Stoicks</hi> com<g ref="char:EOLhyphen"/>mended Self-murder in several cases. <hi>Aristotle</hi> allow'd the Appetite to re<g ref="char:EOLhyphen"/>venge Injuries to be as natural, as an inclination to Gratitude; to put up an Affront he reputed servile, but accounted Pride to proceed from a sublime Spirit. <hi>Plato</hi> in his <hi>Refi<g ref="char:EOLhyphen"/>ned Commonwealth,</hi> indulg'd a Com<g ref="char:EOLhyphen"/>munity of VVives, and licens'd the telling Lies upon occasion <note n="†" place="bottom">
+                     <hi>Bates</hi>'s Harm. p. 358, 359.</note>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Morality is good, and very beneficial: It's a Beauty to Humane Societies, a Satisfaction to a natural Conscience; security to
+<pb n="17" facs="tcp:207357:14"/> the Body, and exemplary to others. In whomsoever it is found, it may be justly applauded and incourag'd. It is a Fruit of Christ's Mediation, and a Preservative of Mankind; without which this lower world would be a Bedlam or Shambles. Christ looked on the Pharisees with Disdain and Anger, but the Text acquaints you, <hi>He beheld the young man, and loved him.</hi> Our Lord had some Affection for him, though he did not eternally reward him. Ver<g ref="char:EOLhyphen"/>tue may not be confounded with Vice; They who perform Acts of Justice, Honour, Kindness, Com<g ref="char:EOLhyphen"/>passion, are not guilty like them who are arraigned every Sessions; as violating the Laws of Nature and Reason. Under the Old Testament Dispensation, serious Persons had fre<g ref="char:EOLhyphen"/>quent Visits from the holy Angels <note n="*" place="bottom">
+                     <hi>Praesentes nam{que} ante domos invisere castas Caelicolae nondum spreta pietare solebant.</hi>
+                  </note>:
+<pb n="18" facs="tcp:207357:15"/> Yet <hi>Catullus</hi> (one ignorant of the holy Scriptures) imputes the losing of their company to the wickedness of the times <note n="*" place="bottom">
+                     <p>
+                        <hi>Sed postquam Tellus s<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>lere est imbuta nefan<g ref="char:EOLhyphen"/>do, &amp;c.</hi>
+                     </p>
+                     <p>
+                        <hi>Justificam nobis mentem avertere Deorum, Quare nec tales dignantur visere caetus, Nec se contingi patiuntur lumine claro.</hi>
+                     </p>
+                  </note>.</p>
+               <p>This was the Reason assign'd by an Heathen, why the Angels were not any more sent down to Men from Heaven, because the Inhabitants of the VVorld had abandon'd Righte<g ref="char:EOLhyphen"/>ousness by the covetousness of their desires; many dy'd their hands in their Brethrens blood; the Parents wish'd for the death of their Sons, to enjoy incestuously surviving Re<g ref="char:EOLhyphen"/>lations; and all things were over<g ref="char:EOLhyphen"/>run or disturbed with a profane and unaccountable fury <note n="†" place="bottom">Zanch. <hi>oper. Theol. Tom. 3. p. 159.</hi>
+                  </note> But the grave Moralist is recompenc'd many ways
+<pb n="19" facs="tcp:207357:15"/> by God in this Life, though his works are unprofitable to Salvati<g ref="char:EOLhyphen"/>on; not being enliven'd by Faith, not purifi'd by Love to the Re<g ref="char:EOLhyphen"/>deemer, not designing God's Glory. And here remember,</p>
+               <p n="1">1. Grace doth not abolish Na<g ref="char:EOLhyphen"/>ture so far as good, but refines it; by higher Principles, by more noble Ends. Christianity establishes <hi>what<g ref="char:EOLhyphen"/>ever is good, pure, lovely, praise<g ref="char:EOLhyphen"/>worthy, in the Eyes of all Men,</hi> Rom. 14. 18. <hi>He that in these things serveth Christ, is acceptable to God, and approved of Men.</hi> Art thou called by the name of the Lord Je<g ref="char:EOLhyphen"/>sus, yet comest short of the very Heathen? Nay, thou art far worse than an Infidel, if in a Land of Light thou sinnest against Nature and Grace. <hi>Philemon</hi> a Pagan Poet would teach thee better Morals, not to defile Virgins, not to pollute thy Neighbours Bed; for the Eye of God is continually upon thee <note n="*" place="bottom">Just. Mart. <hi>de Monare. Dei, p. 106.</hi>
+                  </note>.</p>
+               <p n="2">
+                  <pb n="20" facs="tcp:207357:16"/>2. The Publick Peace and Safety, with thy own Tranquility, are esta<g ref="char:EOLhyphen"/>blished by a sober Conversation. Enemies to the power of Godliness are less exasperated, if they behold thy honest quiet Behaviour; their Spirits are mollifi'd; their Rage is mitigated: Such is the efficacy of a regular inoffensive Behaviour, that it constrains them to concord, who had little inclination for it in their natural Tempers <note n="*" place="bottom">—<hi>Manibus{que} junctis Ducit ad pacem pietas negantes.</hi> Sen. <hi>Thyestes act. 3. Chorus.</hi>
+                  </note>; <hi>Who is he that will harm you, if ye are fol<g ref="char:EOLhyphen"/>lowers of that which is good?</hi> 1 Pet. 13. A strong Conviction fastens on the Consciences of wicked Men, obliging them to reverence unstain<g ref="char:EOLhyphen"/>ed Innocency; the marble Heart of that Prince did sweat hereby: 1 <hi>Sam. 24. 16, 17, 18. Saul said, Is this thy voice, my son David? And Saul lift up his voice and wept. And he said to David, Thou art more righteous than I; for thou hast rewarded me
+<pb n="21" facs="tcp:207357:16"/> good, whereas I have rewarded thee evil. If a man find his enemy, will he let him go away? Wherefore the Lord reward thee good, for that thou hast done unto me this day.</hi> God by his Providence prevents many ex<g ref="char:EOLhyphen"/>ternal Vexations, to them that or<g ref="char:EOLhyphen"/>der their Conversation aright, he shews his Salvation; or his presence in the Soul, maintains a serenity in their Minds. The Philosopher thought that Vertue had power e<g ref="char:EOLhyphen"/>nough, to break the force of Trou<g ref="char:EOLhyphen"/>bles, Sorrows or Injuries; and these could do no more damage to a ver<g ref="char:EOLhyphen"/>tuous Spirit, than when a Shower falls into the Ocean <note n="*" place="bottom">Sen. <hi>Ep. 66. l. 9. p. 255.</hi>
+                  </note>.</p>
+               <p n="3">3. An externally blameless De<g ref="char:EOLhyphen"/>portment is one fruit of Regene<g ref="char:EOLhyphen"/>ration. It is Go<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s Prerogative to renew the Heart, but we are com<g ref="char:EOLhyphen"/>manded to manifest the reality of our Conversion by Works meet for Repentance; by a righteous tem<g ref="char:EOLhyphen"/>perate inoffensive Behaviour before
+<pb n="22" facs="tcp:207357:17"/> Men. <hi>Acts 26. 20. Repent and turn to God, and do works meet for repen<g ref="char:EOLhyphen"/>tance.</hi> Never pretend to be born of God, boast not of an inward work of Grace, without an alteration in thy irregular practice. Didst thou love God, believe in Christ, hate Evil in thy Heart, delight in Holi<g ref="char:EOLhyphen"/>ness, or hadst a deep sense on thy Thoughts of a World to come; thou wilt assuredly discover it, by the honesty, gravity, sobriety of thy Behaviour. True Morality con<g ref="char:EOLhyphen"/>sists in avoiding Vices, and imbra<g ref="char:EOLhyphen"/>cing Vertues: It is not sufficient to abstain from Evil, if we do not Good: <hi>Isa. 1. 16, 17. Truth and Falshood, Modesty and Frowardness, Faith and Perfidiousness, Chastity and Luxury, do overturn each other; we must struggle with the Corruption of our Natures, by the vigorous resistance of contrary Vertues</hi>
+                  <note n="*" place="bottom">Bern. <hi>de ord. vit. p. 1245.</hi>
+                  </note>.</p>
+               <p n="4">4. The Holy Scriptures condemn all Excesses and Disorders. The
+<pb n="23" facs="tcp:207357:17"/> Law of God is the Rule of the new Nature; whatever this blames, we must carefully decline: Eac<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> real Christian is tender of offending God, and has an awe upon him of the Command: <hi>Psal. 119. 161. My Heart slandeth in awe of thy word.</hi> Hypocrites are often busie about the Ceremonies or Fringes of Religi<g ref="char:EOLhyphen"/>on, yet neglect the weightiest Du<g ref="char:EOLhyphen"/>ties. <hi>Wo to you Scribes and Phari<g ref="char:EOLhyphen"/>sees, hypocrites; for ye pay tithe of mint, anise and cummin, and have omitted the weightier matters of the law, judgment, mercy and faith,</hi> Mat. 23. 23. But the sincere have a con<g ref="char:EOLhyphen"/>scientious regard, to whatsoever is grounded on Divine Authority. <hi>Clem. Alex.</hi> gives us a good Note, <hi>p. 195. Filthy Words, obscene Pi<g ref="char:EOLhyphen"/>ctures, wanton Embraces, may not be retained in our Memories;</hi> accord<g ref="char:EOLhyphen"/>ing to the advice of the blessed Apostle, <hi>Eph. 5. 3. Fornication, and all uncleanness, let it not once be na<g ref="char:EOLhyphen"/>med amongst you, as becometh saints.</hi>
+                  <pb n="24" facs="tcp:207357:18"/> Heaven forbids the bare mentioning of lewd Speeches or Practices, un<g ref="char:EOLhyphen"/>less to convict Malefactors: What a Solace then is it to observe so <hi>ma<g ref="char:EOLhyphen"/>ny formed into Societies for a Pub<g ref="char:EOLhyphen"/>lick Reformation, with the steadiest Resolutions, and the gravest Counsels, doing their utmost for an Effectual Restraint of the Profaneness of the present Age?</hi> The very Heathens at the Great Day, are likely to be Witnesses against those debauch'd Wretches, which are siez'd and brought to Justice every week, by your abundant Care, and righteous Orders. Even the Pagans upbraid<g ref="char:EOLhyphen"/>ed the Adulteries of their times in their Cities:</p>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+               <p>As they also expressed their admi<g ref="char:EOLhyphen"/>ring of the chast and sober, whose Minds were not defiled with im<g ref="char:EOLhyphen"/>pure Desires, and who by no Temp<g ref="char:EOLhyphen"/>tations could be drawn off from the
+<pb n="25" facs="tcp:207357:18"/> Rules of Vertue to hateful Whore<g ref="char:EOLhyphen"/>doms:</p>
+               <q>
+                  <l>Quos desiderium tenuit nec turpe Cubilis</l>
+                  <l>Alterius, nec tetra invisa{que} stupra tu<g ref="char:EOLhyphen"/>lerunt</l>
+                  <l>Ʋlla unquam maribus <note n="*" place="bottom">Clem. Alex. <hi>Paedag. l. 2. p. 195.</hi>
+                     </note>.</l>
+               </q>
+               <p n="5">5. A vertuous Conversation is not a light matter. Divine Glory, the publick Welfare, the support of Humane Society, with the witness of thy Integrity; are all concerned in it: To be careless hereof, plain<g ref="char:EOLhyphen"/>ly argues a disregard to God him<g ref="char:EOLhyphen"/>self; and discovers the Atheism of our Hearts. 1 Joh. 3. 10. <hi>Whosoever doth not righteousness is not of God.</hi> The Philosopher observ'd, <hi>That Vertue has something noble, royal, un<g ref="char:EOLhyphen"/>conquer'd, unwearied; but Voluptu<g ref="char:EOLhyphen"/>ousness is mean, servile, weak and va<g ref="char:EOLhyphen"/>nishing; supported only in Stews and Taverns</hi>
+                  <note n="†" place="bottom">Sen. <hi>de Vit. beat. c. 7. p. 621.</hi>
+                  </note>.</p>
+               <pb n="26" facs="tcp:207357:19"/>
+               <p>
+                  <hi>Fourthly,</hi> Lest we exalt Vertue above measure, we may not forget,</p>
+               <p>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪ It doth not merit Grace. It's Pelagianism to suppose that if a Man did what he could, that God were bound to give him farther Grace: On this wretched bottom the Papists ground their Merit of Condignity, as to the works of the regenerate; and a Merit of Con<g ref="char:EOLhyphen"/>gruity on the actions of the unre<g ref="char:EOLhyphen"/>newed; as if God in Equity were oblig'd to reward the laudable Car<g ref="char:EOLhyphen"/>riage of the unsanctified, with true Conversion: whereas the Holy Spirit entirely ascribes the new Birth to Divine Grace and Mercy; <hi>Tit. 3. 5. Not by works of righteousness, which we have done, but according to his mercy he saved us.</hi> It is not bare<g ref="char:EOLhyphen"/>ly said, it was of Mercy, but Works are utterly disclaim'd: St. <hi>Paul</hi> doth not mingle these, as if our Happiness were partly by Works, and in part by Mercy; but Works are quite excluded; nor is the
+<pb n="27" facs="tcp:207357:19"/> Apostle contented to cashier Works, but to prevent all mistakes, explains his thoughts; by adding, <hi>Not by Works of Righteousness which we have done;</hi> signifying that all our Devotions are intirely rejected from being the cause of saving Grace.</p>
+               <p n="2">2. No lovely Qualities of the gravest Moralist, can equal the Graces of the Holy Spirit. They are little better than Atheists, who magnifie the vertues of the Hea<g ref="char:EOLhyphen"/>then to debase Christianity; who suppose there is more Uprightness in the Institutions of the Pagans, than in the Laws of Jesus Christ. I grant, in degenerate times sober persons may lift up their heads; not as if they were true Converts, but they are not so bad as covetous or cheating Professors: Yet the Power of Godliness and a new Birth, is easily discernable from the shining excellencies of the Gentiles. <hi>Alex<g ref="char:EOLhyphen"/>ander,</hi> it's true, forbore to defile <hi>Darius</hi>'s Queen, from the Gallantry
+<pb n="28" facs="tcp:207357:20"/> of his Spirit; but <hi>Joseph</hi> durst not commit Adultery, from an Awe of God upon his Heart. <hi>Scipio</hi> was not sollicited to Licentiousness by any of his Captives; but <hi>Joseph</hi>'s Mi<g ref="char:EOLhyphen"/>stress urged often to that Villany, who could have preferr'd or undone him, as he comply'd with, or ab<g ref="char:EOLhyphen"/>horr'd her desires, <hi>Gen. 39. 7. ad</hi> 20.</p>
+               <p n="3">3. The state of the Soul is not safe, by the most specious or moral deportment. Vertue is too amiable to be discountenanc'd, yet if thou lovest thy self seek after an higher Elevation. It is like curious Paint, as a graceful Picture, or useful Ar<g ref="char:EOLhyphen"/>tifice; yet it is not a Principle of Spiritual Life within; a Glow<g ref="char:EOLhyphen"/>worm sparkles in the night, but it is no Star. Do not throw off Mo<g ref="char:EOLhyphen"/>rality, but restlesly pursue heaven<g ref="char:EOLhyphen"/>ly Grace; lest only coming near to the Kingdom of Heaven, thou shouldst never be translated into it. Perhaps thou indulgest to no open
+<pb n="29" facs="tcp:207357:20"/> vice, yet art without Christ, thou art useful in the State, but not ac<g ref="char:EOLhyphen"/>cepted of God: Christ Jesus loved this young Man for the matter of his Obedience, yet he told him faith<g ref="char:EOLhyphen"/>fully, <hi>One thing thou lackest.</hi> Yea, thy Sobriety is a snare, if thou art conceited of it, and restest in it; not seeking to be reconcil'd to God in the Method of the Gospel: Not<g ref="char:EOLhyphen"/>withstanding thy regular Behaviour in the Eye of Men, thou mayest be spiritually dead in Trespasses and Sins; a stench or putrefaction is prevented by Embalming, yet the Corps is dead. <hi>Gen.</hi> 50. 2. Thou avoidest Scandal, yet perhaps har<g ref="char:EOLhyphen"/>bourest spiritual Sins; that which is born of the Flesh is Flesh, whe<g ref="char:EOLhyphen"/>ther in <hi>Nicodemus</hi> or in <hi>Judas.</hi> Till renewed in the Spirit of thy Mind, thou hast no better than an Animal or rational Life, art not yet parta<g ref="char:EOLhyphen"/>ker of a Divine Nature. <hi>Vertue is the fruit of a strict Education, but Grace is the product of the blessed
+<pb n="30" facs="tcp:207357:21"/> Spirit; the former is by awakening Natural Light, the latter is from an Heavenly Beam. or the peculiar Love of God:</hi> The first rouses, by jogging of thy Conscience; the second is the breathing of the Holy Ghost upon thee, making all things new within <note n="*" place="bottom">Char. 2. <hi>Vol. p. 108.</hi>
+                  </note>.</p>
+               <p>
+                  <hi>Ʋse</hi> 1. With mournful Hearts let us all consider, how heavy will their Condemnation be, who have no<g ref="char:EOLhyphen"/>thing lovely in them! Once per<g ref="char:EOLhyphen"/>haps they had curious parts, but have besotted themselves in a worse than brutish Drunkenness. These have quite supprest any useful Thoughts in their Minds, by Luxu<g ref="char:EOLhyphen"/>ry and Riot; they have perverted any Moral Inclinations (those re<g ref="char:EOLhyphen"/>maining Seeds of God in Nature) by their Whoredoms, by prostitu<g ref="char:EOLhyphen"/>ting their Consciences, by smother<g ref="char:EOLhyphen"/>ing any rebukes of their own Hearts.
+<pb n="31" facs="tcp:207357:21"/>
+                  <hi>Eph. 4. 19. Who being past feeling, have given themselves over to lasci<g ref="char:EOLhyphen"/>viousness, to work all uncleanness with greediness.</hi> By subjecting themselves to the tyranny of vicious Customs, they have provoked God to give them up to the swinge of sensual Lusts. These have lost the benefit of any goodness in a natural Tem<g ref="char:EOLhyphen"/>per or a sober Education, and de<g ref="char:EOLhyphen"/>spise the Instructions of their best Friends; living in defiance of the Laws of God and Men: Many, ma<g ref="char:EOLhyphen"/>ny of these infamous wretches, you have justly exposed to the world in your <hi>Black Lists;</hi> and have brought near <hi>Four Thousand of them</hi> to feel something of the sharpness of Im<g ref="char:EOLhyphen"/>partial Justice, as an effectual warn<g ref="char:EOLhyphen"/>ing to other daring Malefactours. But if the Heathens perish'd, not<g ref="char:EOLhyphen"/>withstanding Exemplary Morality, and many excellent Qualities; how low in the bottomless Pit will these sink, who check all the motions of the Spirit of God, who slight all
+<pb n="32" facs="tcp:207357:22"/> the Judgments of Heaven, who with an high hand sin against Or<g ref="char:EOLhyphen"/>dinances, Providences, Education, with the lashes of a natural Con<g ref="char:EOLhyphen"/>science; and transgress the most use<g ref="char:EOLhyphen"/>ful Laws of these Kingdoms!</p>
+               <p>There is a time wherein the evil Spirits expect to be tormented, more than now they are; the Demoniac expostulated thus, <hi>Art thou come to torment us before the time?</hi> The Devil knew that the last Assizes was the prefixed term for his full execu<g ref="char:EOLhyphen"/>tion, and that day was not then come; even the <hi>Evil Spirits ac<g ref="char:EOLhyphen"/>knowledge, confess and fearfully at<g ref="char:EOLhyphen"/>tend, a set day of universal Sessions: They believe less than Devils, who doubt of, or deny, that day of final Retribution.</hi>
+                  <q rend="margQuotes">Oh the wonderful Mercy of God, who both to ungodly Men and wicked Spirits, respites the utmost of their Tor<g ref="char:EOLhyphen"/>ment! He might on the first instant of the Fallen Angels, have inflicted on them the highest Ex<g ref="char:EOLhyphen"/>tremity
+<pb n="33" facs="tcp:207357:22"/> of his Vengeance: He might upon the first Sins of our <hi>Youth, yea of our Nature,</hi> have swept us away, and given us our portion in that fiery Lake; but he stays a time for both. Oh con<g ref="char:EOLhyphen"/>sider this ye lawless Sinners, that say, <hi>Let us break his bands asun<g ref="char:EOLhyphen"/>der, and cast his cords from off us: However the Almighty suffers you for a season to have free scope to Evil,</hi> and ye can now impotent<g ref="char:EOLhyphen"/>ly resist the revealed Will of your Creator; yet the time shall come when ye shall see <hi>the very Masters ye have serv'd, (the Powers of Darkness) unable to avoid the Re<g ref="char:EOLhyphen"/>venges of Heaven:</hi> Divine Power when it lists, can command the Devils to their Chains, how much less shall Man strive with his Maker; Man whose breath is in his nostrils, whose house is clay, whose foundation is in the dust? No sooner were the Devils cast out of the Man possess'd, but
+<pb n="34" facs="tcp:207357:23"/> they were in the Swine, and pas<g ref="char:EOLhyphen"/>sed without intermission from one mischief to another; then was the Herd carried with violence from a steep place into the Lake, and all choaked: How easily doth th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wicked one hurry those Souls (which are under his power,) to destruction? <hi>Ʋnclean beasts that wallow in the mire of Sensuality, bru<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ish drunkards transforming themselves by excess, even they are Swine; whom the Legion carries headlong to the pit of Perdition</hi>
+                     <note n="*" place="bottom">
+                        <hi>Bishop</hi> Hall'<hi>s Contempl. New Test. l. 3. c. 5. p. 80, 84.</hi>
+                     </note>.</q> And do not our Souls bleed within us, when we observe so many Sin<g ref="char:EOLhyphen"/>ners ensl<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ved to divers Lusts, car<g ref="char:EOLhyphen"/>ried cap<gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e by Satan at his pleasure, and treasuring up wrath against the day of wrath?</p>
+               <p n="2">2. With what a pleasing aspect doth Heaven look on you, <hi>the Gen<g ref="char:EOLhyphen"/>tlemen of these Societies; who are Enemies to Vice in others, and your</hi>
+                  <pb n="35" facs="tcp:207357:23"/> The Text declares Jesus be<g ref="char:EOLhyphen"/>holding this young Man, loved him; if an obscure shadow of the Divine Image be any wise delighted in, much more grateful is a lively Pi<g ref="char:EOLhyphen"/>cture, or fair impression of it on the Soul <note n="*" place="bottom">
+                     <q>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>Patre bono tali{que} ex sanguine Glo<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ior esse.</hi>
+                        <bibl>Clem. Alex. <hi>p. 106.</hi>
+                        </bibl>
+                     </q>
+                  </note>. That converse which I have of late injoy'd with several of you, chears my Heart with the Evidences of Grace, <hi>in truth and vigour, in some of your Souls:</hi> The Lord increase the number amongst you, on whom he will pour out his <hi>Spirit of Sanctification;</hi> and let me mention it to your honour, I hear<g ref="char:EOLhyphen"/>tily wish that the Example of <hi>some of you,</hi> may animate many others <hi>to wrestle with Heaven in a corner with united cries;</hi> that the Souls and Bodies of capital Malefactors might not perish together; that the Pu<g ref="char:EOLhyphen"/>nishments inflicted on the blackest Criminals might awaken their Con<g ref="char:EOLhyphen"/>sciences
+<pb n="36" facs="tcp:207357:24"/> to argue powerfully in their bosoms, <hi>What fruit have ye in the things whereof afterward ye are asha<g ref="char:EOLhyphen"/>med; the end whereof is death?</hi>
+               </p>
+               <p>The <hi>Stoicks</hi> indeed very wickedly equaliz'd the Wisdom and Vertues, of Men and of God; for Prudence making no difference but this, that the one was Immortal, and the o<g ref="char:EOLhyphen"/>ther Mortal; nay, that the Crea<g ref="char:EOLhyphen"/>ture <hi>had this advantage to be <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> happy in an Age, as Jupiter in his Eternity.</hi> Yea, with the highest excess of Pride and Blasphemy, they preferr'd the wretched imperfect Vertue and Felicity of their wise Man, before the infinite unchangeable Purity and Blessedness of God himself; saying God is wise and happy <hi>by the Privi<g ref="char:EOLhyphen"/>ledge of his Nature,</hi> whereas the Phi<g ref="char:EOLhyphen"/>losopher was so <hi>by the Discourse of Reason, and by the choice of his own Will;</hi> notwithstanding the resistance of his Passions, and the difficulties he encounters in the world. Thus they raised themselves above the
+<pb n="37" facs="tcp:207357:24"/> Throne of God, which none since the rebellious Angels ever attempt<g ref="char:EOLhyphen"/>ed to do, but this Sect; yet it was most renowned amongst the Hea<g ref="char:EOLhyphen"/>thens <note n="*" place="bottom">
+                     <hi>Dr.</hi> Bates'<hi>s Harm. Div. Attr. c. 17.</hi>
+                  </note>. But though none are per<g ref="char:EOLhyphen"/>fect absolutely as their Heavenly Father is, yet living in obedience to the Gospel, Heaven expects that we should be like the Children of God, perfect without re<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uke <note n="†" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Clem. Alex. <hi>Strom. l. 7. p. 753.</hi>
+                  </note>. Such upright Persons, the Countenance of God beholds with a smile; <hi>Psal.</hi> 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7. The Lord indeed owes no<g ref="char:EOLhyphen"/>thing to his Creature, yet from the Holiness of his Nature he cannot but <hi>love Purity, as a Resemblance of himself.</hi> It's Essential to the Divine Majesty to take pleasure in Righte<g ref="char:EOLhyphen"/>ousness, wherever he sees it; <hi>The Eyes of the Lord are upon the righ<g ref="char:EOLhyphen"/>teous.</hi> Nothing at first invited God to manifest his Goodness at the Creation, but having beautified
+<pb n="38" facs="tcp:207357:25"/>
+                  <hi>Adam</hi> with Innocency, it was im<g ref="char:EOLhyphen"/>possible not to like the Copy of his own Nature. The great God most ardently loves his own Deity, and is well▪ pleased with any spark there<g ref="char:EOLhyphen"/>of appearing in any of his Crea<g ref="char:EOLhyphen"/>tures; and particularly <hi>in your So<g ref="char:EOLhyphen"/>cieties.</hi>
+               </p>
+               <p n="3">3. How justly may <hi>you encourage your Spirits in your great Ʋnderta<g ref="char:EOLhyphen"/>king▪</hi> to suppress the Immoralities of many; and to establish the so<g ref="char:EOLhyphen"/>ber orderly Conversation of others. <hi>It is a sign of a People given up to Judgment, when no Man makes head against the Projects of Evil; but alas what can one strong Man do, against an whole throng of wicked<g ref="char:EOLhyphen"/>ness? Yet this good comes of an un<g ref="char:EOLhyphen"/>prevailing resistance, that God for<g ref="char:EOLhyphen"/>bears to plague where he finds but a sprinkling of Faith: Happy are they, who (like the Coelestial Bodies carried about with the sway of the highest Sphere; yet creep on their own ways) keeping on the courses of their own
+<pb n="39" facs="tcp:207357:25"/> Holiness, against the swinge of com<g ref="char:EOLhyphen"/>mon Corruptions; they shall both de<g ref="char:EOLhyphen"/>liver their own Souls, and help to withhold Judgment from others</hi>
+                  <note n="*" place="bottom">
+                     <hi>Bishop</hi> Hall'<hi>s Contempl. N. T. l. 2. c. 5.</hi>
+                  </note>. This, this is like to be your Immor<g ref="char:EOLhyphen"/>tal Honour, who unite your Coun<g ref="char:EOLhyphen"/>sels and Abilities for a National Re<g ref="char:EOLhyphen"/>formation: You cannot but suppose that your <hi>Blessed Design</hi> will be clogg'd with difficulties, and may at times meet with an interrupti<g ref="char:EOLhyphen"/>on <note n="†" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Virtutem posuere Dii sudore parandam.</hi> Lanch. <hi>Tom. 2. p. 457.</hi>
+                  </note>: Yet let not your Spirits sink, nor your Hands be enfeebled. The very Heathen Philosopher suppos'd, That no good Man would decline a vertuous Action, though Labour, Censuring or Danger, attended it; neither would adventure on a dis<g ref="char:EOLhyphen"/>honest Act, though Profit, Pleasure and Preferment did accompany it <note n="‖" place="bottom">Sen. <hi>Ep. 76. l. 10. p. 318.</hi>
+                  </note>.</p>
+               <p>But to put more Life and Acti<g ref="char:EOLhyphen"/>vity into your Proceedings, you
+<pb n="40" facs="tcp:207357:26"/> may be particularly assured, <hi>that the God of Peace will be with you. Whatsoever things are true, whatso<g ref="char:EOLhyphen"/>ever things are honest, whatsoever things are pure, whatsoever things are of good report; if there be any vertue, if there be any praise, think on these things; and the God of Peace shall be with you. Phil.</hi> 4. 8, 9 And having a Promise of the Divine Presence, let Ruffians, Bullyes, reviling Tongues, or Enemies of all Righteousness do their worst, by frowns, threatnings, plots or blows; yet the thoughts of the Almighty's Care over him, was sufficient to maintain the chear<g ref="char:EOLhyphen"/>fulness of <hi>David</hi>'s Spirit; and to advance him above any servile Fears: Yea, do but wait a while, and then you may see your desire on them that hate you; in a change of their hearts, or ruining of their malici<g ref="char:EOLhyphen"/>ous designs: <hi>Psal. 118. 6, 7. Your danger is alone from Men; your help is in the name of the Lord, who made Heaven and Earth.</hi> Remember,
+<pb n="41" facs="tcp:207357:26"/> God has a special regard to any im<g ref="char:EOLhyphen"/>ploy'd in Publick Service: This was alledg'd to imbolden <hi>Joshua</hi> in his Expedition against the <hi>Canaa<g ref="char:EOLhyphen"/>nites,</hi> not viler wretches than those you every week are dealing with. <hi>Josh. 1. 9. Have not I commanded thee? Be strong and of a good cou<g ref="char:EOLhyphen"/>rage, be not afraid, neither be thou dismayed; for the Lord thy God is with thee, whithersoever thou goest.</hi> Not only the Angels of the Churches are in Christ's Hand, but the Sup<g ref="char:EOLhyphen"/>porters of a Nations Peace, the <hi>up<g ref="char:EOLhyphen"/>holders of Humane, yea of Christian Society, such as you are,</hi> may war<g ref="char:EOLhyphen"/>rantably expect to <hi>be hid in the sha<g ref="char:EOLhyphen"/>dow of God's hand, Isa.</hi> 49 2. Tho' this Promise was made to Christ immediately, yet it belongs to o<g ref="char:EOLhyphen"/>thers also, who are eminently in<g ref="char:EOLhyphen"/>gaged under him: To <hi>Jerusalem,</hi> and to them that seek her welfare, <hi>the Lord will be as a Wall of Fire round about them;</hi> Zech. 2. 5. allu<g ref="char:EOLhyphen"/>ding perhaps to the Fiery Chariots,
+<pb n="42" facs="tcp:207357:27"/> the Life▪ guard of Angels, which surrounded the City where <hi>Elisha</hi> was; or respecting the custom of Travellers, who were wont to make a circular Fire about them; then no Lion, Wolf, Bear, Leopard, or wild Beast, durst meddle with them <note n="*" place="bottom">Green<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>il <hi>Ez<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k. p 271, 275</hi>
+                  </note>. Doubt not, the most High will be your security from the Sons of <hi>Belial,</hi> who would fain offer Violence to you; yea, several of you have had signal Experience al<g ref="char:EOLhyphen"/>ready, of Heavens Protection <hi>over you:</hi> However, value not your Lives at so dear a rate, as to grudge to resign them <hi>in this Publick zea<g ref="char:EOLhyphen"/>lous Service, of God and the Na<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p n="4">4. Oh that all who are invested with Power and Authority, would be intreated to draw forth the <hi>Sword of Justice,</hi> in a faithful Execution of the many Righteous Laws of the Kingdom, against Drunkenness,
+<pb n="43" facs="tcp:207357:27"/> Sabbath-breaking, Whoredom, and worse than beastly Sensualities. Why doth the Representative Body of the Nation so frequently prepare the most useful Bills, which our <hi>Gracious Sovereign readily and de<g ref="char:EOLhyphen"/>lightfully Signs; and by His Religi<g ref="char:EOLhyphen"/>ous repeated Proclamations,</hi> animates to the suppressing of Profaneness? Must all these Edicts with the Royal Commands, be only Read or Talk'd of? <hi>Menander,</hi> an Heathen, puts careless and corrupt Magistrates to the blush, for their personal Ir<g ref="char:EOLhyphen"/>regularities; who give an evil Ex<g ref="char:EOLhyphen"/>ample in their Practice, tho' their Office requires them to Enact or Execute the Laws upon Transgres<g ref="char:EOLhyphen"/>sors <note n="*" place="bottom">
+                     <hi>Aequumne, Leges qui datis Mortalibus, Injuriarum vos teneri crimine? Poen<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s stupri seretis &amp; violentiae.</hi> Just. Mart. <hi>de Monar. Dei, p.</hi> 108▪</note>. It suffices not to speak a<g ref="char:EOLhyphen"/>gainst Sin, (tho' it were in a Charge to a Grand Jury) if Grandees do
+<pb n="44" facs="tcp:207357:28"/> not strike at it. Why were you cloathed with Power, it was not meerly for an Ornament to your Persons? God abhors you, and your Neighbours will despise you, if you bear the Sword in vain: Heaven expects your brandishing it for a Terror to the lewdest wretches: The King and the Nation call upon you, to sheath it in the Bowels of daring Crimes and Abominations. VVhat multitudes are there, who bid open defiance to Divine Autho<g ref="char:EOLhyphen"/>rity, to the wisest and most benefi<g ref="char:EOLhyphen"/>cial Statutes of the Kingdom; and are you regardless of such Villa<g ref="char:EOLhyphen"/>nies? Have you not Sins enough of your own to answer for, must the Guilt of others also be a pressing heavy eternal Load, upon your Consciences? Pray read and ponder on that terrible Doom denounced on a King of <hi>Israel,</hi> for not executing Justice on a daring Blasphemer; 1 <hi>Kings 20. 42. Thus saith the Lord, B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cause thou hast let go out of thy
+<pb n="45" facs="tcp:207357:28"/> hand, a man whom I appointed to ut<g ref="char:EOLhyphen"/>ter destruction; therefore thy life shall go for his life, and thy people for his people.</hi> There was an ex<g ref="char:EOLhyphen"/>press Law, that every Blasphemer should be Capitally punish'd; <hi>Lev. 24. 16. He that blasphemeth the name of the Lord, he shall surely be put to death; and all the Congregation shall certainly stone him: as well the stran<g ref="char:EOLhyphen"/>ger, as he that is born in the land, when he blasphemeth the Name of the Lord, shall be put to death.</hi> This sa<g ref="char:EOLhyphen"/>cred Charge extended not only to the <hi>Israelites,</hi> but to Foreigners who dwelt amongst them, or were un<g ref="char:EOLhyphen"/>der their Power; now <hi>Benhadad</hi> and his Courtiers had horribly dis<g ref="char:EOLhyphen"/>honour'd the God of Glory, as if he were no better than the Syrian Deities; 1 <hi>Kings 20. 23. Their gods are gods of the hills, therefore they were stronger than we: but let us fight against them in the plain, and surely we shall be stronger than they.</hi> For this the great God deliver'd up that
+<pb n="46" facs="tcp:207357:29"/> Prince into <hi>Ahab</hi>'s hands, as the Lord had by the Prophet assur'd; 1 <hi>Kings 20. 28. Thus saith the Lord, Because the Syrians said, The Lord is God of the hills, but he is not God of the valleys; therefore will I deli<g ref="char:EOLhyphen"/>ver all this great multitude into thine hand, and ye shall know that I am the Lord.</hi> But the King of <hi>Israel</hi> was so far from cutting him off for this horrid Insolence against the true God, that he did not so much as rebuke him; nay, he treated <hi>Benha<g ref="char:EOLhyphen"/>dad</hi> as a Friend, or Brother, dismis<g ref="char:EOLhyphen"/>sing him on easie terms, and taking his word for the performance; not being at all concern'd for the Repa<g ref="char:EOLhyphen"/>ration of God's Honour: But the great God would not put it up so, <hi>Therefore thy Life shall go for his.</hi>
+               </p>
+               <p>To bring the case nearer home, Suppose Dammees and Monsters for Profaneness are brought before you, if you wink at their Villanies, or gently reprimand them; the Lord may leave you and your Families
+<pb n="47" facs="tcp:207357:29"/> or Relations in their hands, to plun<g ref="char:EOLhyphen"/>der or burn your Habitations; to decoy, ensnare and prostitute your own Children; and then your Sin will be fairly written upon the pu<g ref="char:EOLhyphen"/>nishment. But by Fidelity in your publick Stations, you will answer your Dignity and Character; the supream and subordinate Magistrate is the Minister of God for good: The Lord appointed, advanced, seated Him that is on the Throne, and another in the Chair on the Bench; committing to you the Trust, and putting this Power into your hands; and God design'd you for abundant <hi>Good,</hi> whether <hi>Natu<g ref="char:EOLhyphen"/>ral,</hi> to preserve the Lives, Liberties and Properties of the Children of Men; <hi>Moral,</hi> to prevent Vice, or controul flagitious self-ruining Courses; <hi>Civil,</hi> to maintain Socie<g ref="char:EOLhyphen"/>ties, and promote Righteousness and Honesty; or <hi>Spiritual,</hi> to uphold the true Religion, and countenance the pure worship of God: All this
+<pb n="48" facs="tcp:207357:30"/> good may be comfortably expected, and your fellow-subjects promise themselves so great satisfaction; when Magistrates are active and faithful: Brambles will rend and tear, Fire goes out of them to de<g ref="char:EOLhyphen"/>vour; but the Fruit of the Vine is chearing, and with delight many may sit down under its reviving shadow <note n="*" place="bottom">
+                     <hi>Casuist. Morn. Exerc. Serm. 15. p. 316.</hi>
+                  </note>.</p>
+               <p n="5">5. Seeing the Text referrs to a <hi>Young Person, whom Jesus Christ be<g ref="char:EOLhyphen"/>held and loved;</hi> Let this especially quicken those younger sober Gen<g ref="char:EOLhyphen"/>tlemen, several of which have late<g ref="char:EOLhyphen"/>ly enter'd into, and join'd with <hi>these Societies,</hi> ingaging with them in the glorious Enterprise of a <hi>Na<g ref="char:EOLhyphen"/>tional Reformation.</hi> May the num<g ref="char:EOLhyphen"/>ber of such increase continually, with their vigour and usefulness; your warmth and fervour is exceed<g ref="char:EOLhyphen"/>ing commendable, in the United, Prudential, Religious and Successful
+<pb n="49" facs="tcp:207357:30"/> Methods taken, to convict the im<g ref="char:EOLhyphen"/>pudent Heaven-daring Malefactors of this Age. In Faithfulness to your Souls, I am bound to put you in Remembrance, that our Lord ac<g ref="char:EOLhyphen"/>quainted this very Person in the Text, <hi>One thing yet thou lackest:</hi> Even an earnest prosecution of vile Criminals, is short of a sincere Conversion; I hope you will take it into Consideration, in your deep<g ref="char:EOLhyphen"/>est, closet, retired Thoughts; to be importunate at the Throne of Grace to be <hi>Renewed in the Spirit of your minds, that you may approve of, and delight in the holy, perfect and acceptable Will of God.</hi> Rom. 12 2.</p>
+               <p>However, I desire to bless the Lord that any <hi>escape the Pollutions of the World through Lust;</hi> that there are so many <hi>hopeful Young Gentlemen</hi> in this degenerate Age: Who condemn the Profaneness of others, by their own delighting in Goodness; a Rule which <hi>Pytha▪
+<pb n="50" facs="tcp:207357:31"/> goras</hi> gave of old <note n="*" place="bottom">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Quae mala sunt faciens reprehendere, sed bona, gaude.</hi> Clem. Alex. <hi>Paed. l. 1. p. 131.</hi>
+                  </note>. Pray Study much, and be Exemplary in observing the Scripture Morals in the famous Text, <hi>Phil. 4. 8. Whatsoever things are true, honest, just, lovely, and of good report; if there be any vertue and praise, think on these things.</hi> Would to God this Sermon might not end before all here present (of riper Years) would send up a serious Wish, to be made new Creatures. <hi>Orpheus,</hi> an Heathen, offers you very wholsome Instructions, <q rend="margQuotes">Nar<g ref="char:EOLhyphen"/>rowly inspect your Hearts and Lives, avoid all the crooked Paths that lead to the Chambers of Death, fixing a steady Eye on the Supream and Eternal Governour of the whole World <note n="†" place="bottom">
+                        <p>
+                           <hi>Mentem{que} tuam, &amp; Cor dirige, rectâ At{que} viâ ingredere, Mundi autem respice Regem Solum Immortalem.</hi>
+                        </p>
+                        <p>Clem. Alex. <hi>Admon. ad Gent. p. 48.</hi>
+                        </p>
+                     </note>.</q>
+               </p>
+               <pb n="51" facs="tcp:207357:31"/>
+               <p>The persisting in a Moral, Re<g ref="char:EOLhyphen"/>gular, Vertuous Conversation, will be singularly advantageous to your selves, with reference to your Health, Estates, Comfort, and Re<g ref="char:EOLhyphen"/>putation; and such a Reward in hand, is no small incouragement to perseverance in Well doing.</p>
+               <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_quack_medicine">
+            <pb facs="tcp:207357:32"/>
+            <head>Advertisement.</head>
+            <p>THere is lately brought from <hi>Chili,</hi> a Province in <hi>America,</hi> a most excellent Natural <hi>Bal<g ref="char:EOLhyphen"/>sam,</hi> found out by several eminent persons, to ex<g ref="char:EOLhyphen"/>cel that of <hi>Peru</hi> and <hi>Tolu,</hi> in curing of divers dis<g ref="char:EOLhyphen"/>eases, as it hath given demonstration; 'Tis a Re<g ref="char:EOLhyphen"/>medy that no man under the Sun can compose, being a most Odoriferous, and Natural <hi>Balsam.</hi> It cures most Diseases in Human bodys; particu<g ref="char:EOLhyphen"/>larly helps all pains coming from Cold; chiefly pains in the stomach, want of appetite: Corobo<g ref="char:EOLhyphen"/>rating and strengthening the whole body: Tis a wonderful Remedy for all inward sores, bruses, or ulcers of the Lungs, reins, bladder, <hi>&amp;c.</hi> it helps shortness of breath, cough, consumption, or whee<g ref="char:EOLhyphen"/>sings: tis <hi>good</hi> in <hi>most</hi> diseases of the head, as fal<g ref="char:EOLhyphen"/>ling sickness, apoplexy, palsey, trembling, con<g ref="char:EOLhyphen"/>vulsions, headach, and giddiness of the head; &amp; strengthens the brain and nerves, it kills the worms; and helps the stone, and 'tis a wonder<g ref="char:EOLhyphen"/>ful thing for most Diseases of the Ears, especially Deafness. And outwardly apply'd, cures all man<g ref="char:EOLhyphen"/>ner of green wounds, Ulcers, and Fistulas: <hi>&amp;c.</hi> It is only to be had of <hi>Eben: Tracy,</hi> at the Three Bibles on <hi>London-Bridge</hi> Bookseller, at 1 s. <hi>6d.</hi> the ounce. The bottles are sealed with the Balsam-Tree.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
